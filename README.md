@@ -66,3 +66,8 @@ npm install
 
 # Run the development server
 npm run dev
+```
+---
+
+#### 📄 License
+This project is licensed under the MIT License.
